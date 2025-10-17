@@ -1,0 +1,7 @@
+{
+  "name": "cicd2",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo 'testing the application '"
+  }
+}
